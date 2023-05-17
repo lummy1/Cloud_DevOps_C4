@@ -43,7 +43,8 @@ Go back to your home directory.
 7. List all files in the current directory and its subdirectories, including hidden files: ls -R -a
 8. List all files in the current directory and its subdirectories, sorted by file size: ls -R -S
 9. List all files in the current directory and its subdirectories, showing their inode numbers: ls -R -i
-10. List all files in the current directory and its subdirectories, showing the file type and permissions: ls -R -F
+10. List all files in the current directory and its subdirectories, showing the file type an
+d permissions: ls -R -F
 
 # Cp cmd
 

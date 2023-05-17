@@ -1,4 +1,4 @@
-# Lab 2: Manage Linux VMs with the AWS CLI
+cd # Lab 2: Manage Linux VMs with the AWS CLI
 
 
 1. Create virtual machine
